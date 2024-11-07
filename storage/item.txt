@@ -1,0 +1,6 @@
+Burger,130.0,9
+fingerchips,150.0,12
+pizza,120.0,9
+sandwiches,159.0,11
+cornpizza,139.0,8
+chocolate,123.0,2

@@ -1,0 +1,14 @@
+1,Pizza,1,11.0
+2,Pizza,2,22.0
+3,Pizza,3,33.0
+4,Burger,3,300.0
+5,burger,2,250.0
+6,burger,1,125.0
+7,Burger,2,198.0
+8,Burger,1,99.0
+8,fingerchips,1,150.0
+8,pizza,2,278.0
+9,Burger,0,0.0
+9,fingerchips,1,150.0
+9,sandwitch,2,318.0
+10,pizza,2,300.0
